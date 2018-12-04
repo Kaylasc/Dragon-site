@@ -1,0 +1,59 @@
+/* body{
+  background-color: pink
+} */
+/* this is how you target a tag */
+body{
+  background-color: pink
+}
+
+/* this is how you target an id */
+#theNav{
+
+}
+
+
+/* this is how you target the class */
+.theImageDiv{
+  background-color: #ff9029;
+}
+
+
+/* =≠=====≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠
+a div can have two classes*/
+
+body{
+  margin: 0;
+  padding: 0;
+}
+
+img{
+  width: 75vw;
+  border: 10px solid aliceblue;
+}
+
+h1{
+  font-size: 72px;
+}
+
+#theNav{
+  background-color: yellow;
+  height: 7vh;
+  padding: 3vw 5vw 0;
+
+}
+
+#theNav a {
+  padding-left: 2vw;
+  text-decoration: none;
+  font-size: 15px;
+}
+
+.centerContent{
+background-color: darkcyan;
+padding-left: 12vw;
+}
+
+
+.newBackgroundColor{
+  background-color: rgb(140, 255, 231)
+}
